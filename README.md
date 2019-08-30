@@ -1,3 +1,5 @@
+https://slacfest.in/ComingSoon
+
 # StayLateAndCode-SLAC-2019-
 ## Voice Authentication (using Hidden Markov Model) and Siri/alexa like voice command responder (using tf dataset)
   ###### Event title: Stay Late and Code (SLAC) 2019
@@ -20,3 +22,7 @@ Problem Statement we chose:
 Compatible System Assistant: Similar to Alexa, Siri, develop a voice control package which could run on System without connecting to Internet with a very limited voice command set to authenticate user and authorize him/her to control the System. Also, this package should be customizable for each product which should accept its command set as an input and also should be fault-proof as it frustrates the user to repeat the commands when the product doesn’t recognize them. 
 
 Background: The medical systems offered by GE are mostly used in sterile/wet environment and often user needs to interact with the system by using the touchpad/keyboard which is difficult as hands could be wet/need to re-sterile after using the system, he/she could be wearing gloves and the touchpad doesn’t recognize the input of the user.
+
+![WhatsApp Image 2019-08-31 at 2 04 17 AM](https://user-images.githubusercontent.com/29069343/64050248-0d95d680-cb95-11e9-984d-e4c610afe814.jpeg)
+
+![WhatsApp Image 2019-08-31 at 2 04 17 AM (1)](https://user-images.githubusercontent.com/29069343/64050249-0ec70380-cb95-11e9-9e2a-9bb7bd101f82.jpeg)
